@@ -1,0 +1,6 @@
+name: 'Release Repo'
+author: 'Christopher Sexton'
+description: 'Publish release to a separate GitHub Repo'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
